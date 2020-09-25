@@ -7,3 +7,4 @@ Keep on changing stuff.
 
 Locally edited and amended; deleted some stuff.
 
+Then added another file.
